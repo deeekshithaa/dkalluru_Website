@@ -1,4 +1,4 @@
-title : Intro
+Title : Intro
 
 #Welcome to my website
 
