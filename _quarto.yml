@@ -1,0 +1,16 @@
+project:
+  type: website
+
+website:
+  title: "Website"
+  navbar:
+    right:
+      - text: "Intro Page"
+        href: Intro.qmd
+      - text: "Dummy Page 1"
+        href: dummy1.qmd
+      - text: "Dummy Page 2"
+        href: dummy2.qmd
+format:
+  html:
+    theme: flatly
